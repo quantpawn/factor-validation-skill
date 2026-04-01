@@ -1,0 +1,24 @@
+{
+  "task_id": "20260327000101000000_ab12cd34",
+  "status": {
+    "status": "done"
+  },
+  "request": {
+    "factor_name": "TAKER_BUY_QUOTE_VOLUME_SKEWNESS_COMPOSITE",
+    "filename": "TAKER_BUY_QUOTE_VOLUME_SKEWNESS_COMPOSITE.py"
+  },
+  "result": {
+    "factor_name": "TAKER_BUY_QUOTE_VOLUME_SKEWNESS_COMPOSITE",
+    "status": "passed",
+    "stage": null,
+    "metrics": {
+      "rank_ic": 0.0752,
+      "rank_ir": 0.5124,
+      "top_decile_ic": 0.081,
+      "bottom_decile_ic": -0.0623,
+      "top_decile_sharpe": 1.18,
+      "bottom_decile_sharpe": -0.94
+    },
+    "message": "Factor compiled, loaded, and completed FastCheck successfully."
+  }
+}

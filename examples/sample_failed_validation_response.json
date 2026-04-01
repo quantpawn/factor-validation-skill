@@ -1,0 +1,17 @@
+{
+  "task_id": "20260327000102000000_ef56ab78",
+  "status": {
+    "status": "done"
+  },
+  "request": {
+    "factor_name": "BROKEN_ALPHA",
+    "filename": "BROKEN_ALPHA.py"
+  },
+  "result": {
+    "factor_name": "BROKEN_ALPHA",
+    "status": "failed_validation",
+    "stage": "factor_loading",
+    "metrics": {},
+    "message": "Factor BROKEN_ALPHA could not be loaded."
+  }
+}
